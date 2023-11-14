@@ -12,9 +12,6 @@ Follow these simple steps to integrate the testimonials grid section into your p
 
 Clone the Repository:
 
-bash
-Copy code
-git clone https://github.com/your-username/your-repo.git
 Open the HTML File:
 Open the index.html file in your preferred web browser to view the testimonials grid.
 
